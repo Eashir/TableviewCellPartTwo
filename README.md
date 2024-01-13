@@ -15,6 +15,7 @@ Initialize a stack view. Theres a '+' icon at the top to the right of where it s
 2. Make axis vertical
 <br>
 3. Set Distribution to 'Fill Equally'
+   This is because we have two equal halves in the UI that we're going for
 <img width="260" alt="Screen Shot 2024-01-12 at 9 23 58 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/38aee065-9347-458e-90e2-8d2db2a2ba28">
 
 <br><br>
@@ -24,4 +25,16 @@ Initialize a stack view. Theres a '+' icon at the top to the right of where it s
 5. Click on the constraints button
 6. Enter 0 in all 4 of the spaces
 7. Hit the "Add 4 Constraints" button
+This will make sure the main stack view takes up all the space in the cell
+<br<br><br>
 
+Now we're at the part where it can get a little confusing so focus up! 
+
+1. Add 2 more stackviews in the main stackview with a horizontal axis
+2. In the upper horizontal stackview, add a vertical stackview
+3. In this vertical stackview, and both of your labels
+
+  Heres what it looks like
+<img width="1007" alt="Screen Shot 2024-01-12 at 9 31 33 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/302aad0d-8872-4b5d-9057-fac533e68d20">
+
+  
