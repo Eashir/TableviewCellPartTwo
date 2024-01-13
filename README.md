@@ -43,4 +43,9 @@ Now we're at the part where it can get a little confusing so focus up!
 6. You can copy this stackview and post it 3 more times for the rest of the time labels
 7. Add your images in the First Horizontal Stackview
 8. Give your images an aspect ratio of 1:1
-...and wa-la! We've setup our stackviews!
+
+   ...and wa-la! We've setup our stackviews!
+
+<img width="1012" alt="Screen Shot 2024-01-12 at 9 43 41 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/05a155e2-a429-45c8-abd5-db816dbbcf07">
+
+   
