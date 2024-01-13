@@ -18,6 +18,8 @@ Initialize a stack view. Theres a '+' icon at the top to the right of where it s
 <img width="260" alt="Screen Shot 2024-01-12 at 9 23 58 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/38aee065-9347-458e-90e2-8d2db2a2ba28">
 
 <br><br>
+<img width="380" alt="Screen Shot 2024-01-12 at 9 23 22 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/1dbc0958-f65e-4e74-9f26-811706e8cb85">
+
 4. Select the main stack view (*in our case its the Main Vertical Stack View*)
 5. Click on the constraints button
 6. Enter 0 in all 4 of the spaces
