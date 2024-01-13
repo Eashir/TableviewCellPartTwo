@@ -31,7 +31,7 @@ This will make sure the main stack view takes up all the space in the cell
 Now we're at the part where it can get a little confusing so focus up! 
 
 1. Add 2 more stackviews in the main stackview with a horizontal axis
-2. In the upper horizontal stackview, which I labeled First Horizontal Stack View, add a vertical stackview
+2. In the upper horizontal stackview, which I labeled First Horizontal Stack View, add a vertical stackview with **alignment** leading and **spacing** 2
 3. In this vertical stackview, add both of your text labels 'Cameroon' and 'Turns 30...'
 
   Heres what it looks like
@@ -40,8 +40,8 @@ Now we're at the part where it can get a little confusing so focus up!
   
 4. In the Second Horizontal Stack View, add a vertical stackview
 5. In this vertical stackview, add the '364' and 'Days' labels
-6. You can copy this stackview and post it 3 more times for the rest of the time labels
-7. We can give a spacing of 8 in this Second Horizontal Stack View as shown in the final screenshot
+6. You can copy this stackview and paste it 3 more times for the rest of the time labels
+7. We can give a **spacing** of 8 in this Second Horizontal Stack View as shown in the final screenshot
 8. Add your images in the First Horizontal Stackview
 9. Give your images an aspect ratio of 1:1
 
@@ -53,4 +53,9 @@ Now we're at the part where it can get a little confusing so focus up!
 
 <br><br>
 
-   Uou can
+   We can test what happens when we set the 'lines' property of our textlabels to 0. We can also play around with spacing and fill properties
+   Feel free to add constraiints and see what works and what doesnt.
+   Storyboard's GUI does not translate to how your UI will look on a real device.
+   We want autolayout to handle all the automatic-sizing. so th efinishing touch will be to play with the content hugging and compression properties.
+
+Here is a great resource to understand what happens when you change these properties [https://abhimuralidharan.medium.com/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef](url)
