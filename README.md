@@ -41,8 +41,9 @@ Now we're at the part where it can get a little confusing so focus up!
 4. In the Second Horizontal Stack View, add a vertical stackview
 5. In this vertical stackview, add the '364' and 'Days' labels
 6. You can copy this stackview and post it 3 more times for the rest of the time labels
-7. Add your images in the First Horizontal Stackview
-8. Give your images an aspect ratio of 1:1
+7. We can give a spacing of 8 in this Second Horizontal Stack View as shown in the final screenshot
+8. Add your images in the First Horizontal Stackview
+9. Give your images an aspect ratio of 1:1
 
    ...and wa-la! We've setup our stackviews!
 
