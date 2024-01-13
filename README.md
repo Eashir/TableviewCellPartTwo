@@ -4,7 +4,7 @@
 <img width="1280" alt="Screen Shot 2024-01-12 at 8 53 42 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/ee910935-3c32-4a78-aa35-2bbedadb298d">
 
 <br><br>
-Initialize a stack view. Theres a '+' icon at the top to the right of where it says "Running CustomTableViewCell"
+   Initialize a stack view. Theres a '+' icon at the top to the right of where it says "Running CustomTableViewCell"
 
 <br>
 <br>
@@ -49,4 +49,8 @@ Now we're at the part where it can get a little confusing so focus up!
 
 <img width="1012" alt="Screen Shot 2024-01-12 at 9 43 41 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/05a155e2-a429-45c8-abd5-db816dbbcf07">
 
-   
+
+
+<br><br>
+
+   Uou can
