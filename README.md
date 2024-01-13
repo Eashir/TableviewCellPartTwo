@@ -53,9 +53,11 @@ Now we're at the part where it can get a little confusing so focus up!
 
 <br><br>
 
-   We can test what happens when we set the 'lines' property of our textlabels to 0. We can also play around with spacing and fill properties
-   Feel free to add constraiints and see what works and what doesnt.
+   We can test what happens when we set the 'lines' property of our textlabels to 0. We can also play around with spacing and fill properties.
+   Feel free to add constraints and see what works and what doesnt.
    Storyboard's GUI does not translate to how your UI will look on a real device.
-   We want autolayout to handle all the automatic-sizing. so th efinishing touch will be to play with the content hugging and compression properties.
+   We want autolayout to handle all the automatic-sizing. so the finishing touch will be to play with the content hugging and compression properties.
 
 Here is a great resource to understand what happens when you change these properties [https://abhimuralidharan.medium.com/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef](url)
+
+
