@@ -60,4 +60,6 @@ Now we're at the part where it can get a little confusing so focus up!
 
 Here is a great resource to understand what happens when you change these properties [https://abhimuralidharan.medium.com/ios-content-hugging-and-content-compression-resistance-priorities-476fb5828ef](url)
 
+Finally, you'll see that if you clck the red icon next to 'Custom Table View Controller Scene', it'll tell you that your Times Stackview needs more constraints for its X-position. We can add the same constraints that we did for our main stackview to resolve this.
+
 
