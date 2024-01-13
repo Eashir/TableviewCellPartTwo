@@ -31,10 +31,16 @@ This will make sure the main stack view takes up all the space in the cell
 Now we're at the part where it can get a little confusing so focus up! 
 
 1. Add 2 more stackviews in the main stackview with a horizontal axis
-2. In the upper horizontal stackview, add a vertical stackview
-3. In this vertical stackview, and both of your labels
+2. In the upper horizontal stackview, which I labeled First Horizontal Stack View, add a vertical stackview
+3. In this vertical stackview, add both of your text labels 'Cameroon' and 'Turns 30...'
 
   Heres what it looks like
 <img width="1007" alt="Screen Shot 2024-01-12 at 9 31 33 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/302aad0d-8872-4b5d-9057-fac533e68d20">
 
   
+4. In the Second Horizontal Stack View, add a vertical stackview
+5. In this vertical stackview, add the '364' and 'Days' labels
+6. You can copy this stackview and post it 3 more times for the rest of the time labels
+7. Add your images in the First Horizontal Stackview
+8. Give your images an aspect ratio of 1:1
+...and wa-la! We've setup our stackviews!
