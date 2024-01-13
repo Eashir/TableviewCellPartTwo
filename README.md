@@ -13,4 +13,13 @@ Initialize a stack view. Theres a '+' icon at the top to the right of where it s
 
 1. Rename the main stackview
 2. Make axis vertical
+<br>
 3. Set Distribution to 'Fill Equally'
+<img width="260" alt="Screen Shot 2024-01-12 at 9 23 58 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/38aee065-9347-458e-90e2-8d2db2a2ba28">
+
+<br><br>
+4. Select the main stack view (*in our case its the Main Vertical Stack View*)
+5. Click on the constraints button
+6. Enter 0 in all 4 of the spaces
+7. Hit the "Add 4 Constraints" button
+
