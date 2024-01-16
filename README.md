@@ -4,15 +4,24 @@
 
 Lets keep our `Second Horizontal Stackview` with the time labels. We'll set its `Alignment` to `Center` and its `Distribution` to Equal Spacing. `Spacing` will be 36. Make sure that each of the 4 vertical stackviews within it also have an `Alignment` of `Center`
 
+<img width="1000" alt="Screen Shot 2024-01-16 at 4 25 07 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/f5a8c304-5657-4064-b716-9b6edfa0779c">
+
+
 We'll begin with our `ProfileImageView`. 
+
+<img width="600" alt="Screen Shot 2024-01-16 at 4 30 03 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/fb965dd4-a194-4214-b0d0-d7dc15a5c66e">
 
 1. Set it to `40` width and `40` height.
 2. Give it a `top space` and `trailing` constraint to the superview as `16`
 3. We can also provide it with an aspect ratio of `1:1`
-4. Make a copy of this for the `Birthday` ImageView.
-5. Set its height + width to `30`
-6. Hold `control` and drag from the `Birthday` ImageView to our `Profile` ImageView to select `Center Vertically`
-7. Now give it a trailing constraint of `16` to the superview
+4. 
+<img width="1280" alt="Screen Shot 2024-01-16 at 6 49 43 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/8720d0af-982a-445f-877d-f38257b3a42b">
+
+   
+1. Make a copy of this for the `Birthday` ImageView.
+2. Set its height + width to `30`
+3. Hold `control` and drag from the `Birthday` ImageView to our `Profile` ImageView to select `Center Vertically`
+4. Now give it a trailing constraint of `16` to the superview
 
 
 1. Add a label, we'll call it `Name` label, with font size `20`
