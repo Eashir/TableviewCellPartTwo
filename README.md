@@ -13,5 +13,6 @@ We'll begin with our ProfileImageView.
 
 1. Add a textlabel
 2. Set its `height` to >= 20
-3. Set its leading constraint as 16 to the ProfileImageView 
+3. Set its leading constraint as 16 to the ProfileImageView
+4. Hold control and drag from the label to the ProfileImageView to set its **Align Top** constraint
 
