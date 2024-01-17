@@ -45,9 +45,9 @@ We'll begin with our `ProfileImageView`.
 
 <br><br><br><br>  
 1. Lets make a copy of this label, call it `Subtitle` Label with font size `14`
-2. Hold control and drag from the `Subtitle` label to the `Name` label to set its **Align Leading** constraint to `4`
+2. Hold control and drag from the `Subtitle` label to the `Name` label to set its **Align Leading** constraint to `>=0`
 3. Set the `trailing` space of `Subtitle` Label to the superview as `189`
-4. Set the `top` space aka vertical spacing constraint of `Subtitle` label to our `Name` label as `4`
+4. Set the `top` space aka vertical spacing constraint of `Subtitle` label to our `Name` label as `0`
    
 <img width="651" alt="Screen Shot 2024-01-16 at 5 45 22 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/21f22e93-f7bf-4ad6-b640-8a566678431f">
 
