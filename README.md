@@ -48,6 +48,8 @@ We'll begin with our `ProfileImageView`.
 2. Hold control and drag from the `Subtitle` label to the `Name` label to set its **Align Leading** constraint to `4`
 3. Set the `trailing` space of `Subtitle` Label to the superview as `189`
 4. Set the `top` space aka vertical spacing constraint of `Subtitle` label to our `Name` label as `4`
+   
+<img width="651" alt="Screen Shot 2024-01-16 at 5 45 22 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/21f22e93-f7bf-4ad6-b640-8a566678431f">
 
    
 <br><br>
@@ -57,6 +59,8 @@ We'll now make our line separator aka `Line` View
 3. Change the color black or your preferred line separator color
 4. Set its height to `1`
 5. Set its `trailing` and `leading` constraints to `8`
+
+<img width="639" alt="Screen Shot 2024-01-16 at 6 21 20 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/3d69634b-1d82-4649-9b74-39864120c4e7">
 
 <br><br>
 Finally, we now simply
@@ -68,4 +72,7 @@ Finally, we now simply
 6. `Trailing` and `Leading` constraints to the superview as <= 32
 7. `Bottom` space as `0` to the `superview`
 
+<img width="628" alt="Screen Shot 2024-01-16 at 6 31 29 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/50f97a84-06b8-46a6-bcac-2ff98259701d">
 
+
+And there you have it! Place your desired fonts and colors and you're all-set!
