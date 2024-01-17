@@ -35,6 +35,7 @@ We'll begin with our `ProfileImageView`.
 4. Set its `trailing` constraint as `8` to the `BirthdayImageView`
 5. Hold control and drag from the `Name` label to `ProfileImageView` to set its `Align Top` constraint
 6. Set its `Lines` property to `0`
+   
    <img width="607" alt="Screen Shot 2024-01-16 at 6 54 17 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/48cad639-5e7a-4f4a-ab6f-296676c69063">
 <br><br>  <br><br>  
    Now with `Name` label selected, go to Editor and select `SizeToFit`
