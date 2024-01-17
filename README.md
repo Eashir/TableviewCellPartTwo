@@ -14,8 +14,6 @@ We'll begin with our `ProfileImageView`.
 2. Give it a `top space` and `trailing` constraint to the superview as `16`
 3. We can also provide it with an aspect ratio of `1:1`
 
-   
-<img width="1280" alt="Screen Shot 2024-01-16 at 6 49 43 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/8720d0af-982a-445f-877d-f38257b3a42b">
 
 
 <br><br>
@@ -24,6 +22,10 @@ We'll begin with our `ProfileImageView`.
 3. Hold `control` and drag from the `Birthday` ImageView to our `Profile` ImageView to select `Center Vertically`
 4. Now give it a trailing constraint of `16` to the superview
 5. We can also give it a 1:1 ratio
+
+      
+<img width="1280" alt="Screen Shot 2024-01-16 at 6 49 43 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/8720d0af-982a-445f-877d-f38257b3a42b">
+
 <img width="606" alt="Screen Shot 2024-01-16 at 6 56 29 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/15608983-60b2-4287-8f95-a236f8edd07e">
 
 
