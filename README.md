@@ -74,5 +74,17 @@ Finally, we now simply
 
 <img width="628" alt="Screen Shot 2024-01-16 at 6 31 29 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/50f97a84-06b8-46a6-bcac-2ff98259701d">
 
+To make our imageviews into circles, we can link it into our PersonTableViewCell and put this code 
 
+```
+override func layoutSubviews()  {
+
+    self.ProfileImageView.layer.cornerRadius = self.yourImageView.bounds.height/2
+    self.ProfileImageView.clipsToBounds = true
+}
+```
+
+[Like this] (https://github.com/Eashir/TableviewCell/blob/main/README.md)
 And there you have it! Place your desired fonts, colors, and images and you're all-set!
+
+
