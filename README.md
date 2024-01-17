@@ -43,8 +43,8 @@ We'll begin with our `ProfileImageView`.
    
 
 <br><br><br><br>  
-7. Lets make a copy of this label, call it `Subtitle` Label with font size `14`
-8. Hold control and drag from the `Subtitle` label to the `Name` label to set its **Align Leading** constraint to `4`
+1. Lets make a copy of this label, call it `Subtitle` Label with font size `14`
+2. Hold control and drag from the `Subtitle` label to the `Name` label to set its **Align Leading** constraint to `4`
 3. Set the `trailing` space of `Subtitle` Label to the superview as `189`
 4. Set the `top` space aka vertical spacing constraint of `Subtitle` label to our `Name` label as `4`
 
