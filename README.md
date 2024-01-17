@@ -9,12 +9,13 @@ Lets keep our `Second Horizontal Stackview` with the time labels. We'll set its 
 <br><br><br>
 We'll begin with our `ProfileImageView`. 
 
-<img width="600" alt="Screen Shot 2024-01-16 at 4 30 03 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/fb965dd4-a194-4214-b0d0-d7dc15a5c66e">
 
 1. Set it to `40` width and `40` height.
 2. Give it a `top space` and `trailing` constraint to the superview as `16`
 3. We can also provide it with an aspect ratio of `1:1`
-4. 
+
+<img width="600" alt="Screen Shot 2024-01-16 at 4 30 03 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/fb965dd4-a194-4214-b0d0-d7dc15a5c66e">
+   
 <img width="1280" alt="Screen Shot 2024-01-16 at 6 49 43 PM" src="https://github.com/Eashir/TableviewCellPartTwo/assets/20934684/8720d0af-982a-445f-877d-f38257b3a42b">
 
 
